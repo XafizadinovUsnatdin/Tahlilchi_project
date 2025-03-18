@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Ombor Boshqaruv Tizimi</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="sidebar">
+        <h2>Ombor Tizimi</h2>
+        <button onclick="window.location.href='/'">Asosiy Sahifa</button>
+        <button onclick="showDashboard()">Dashboard</button>
+        <button onclick="window.location.href='/products'">Mahsulotlar</button>
+        <button onclick="window.location.href='/warehouse_stock'">Ombor Qoldiqlari</button>
+        <button onclick="window.location.href='/forecast'">Bashoratlar</button>
+        <button onclick="window.location.href='/orders'">Buyurtmalar</button>
+        <button onclick="window.location.href='/reports'">Hisobotlar</button>
+    </div>
+
+    <div class="main-content">
+        <div class="container">
+            <h1>Dashboard - Oy bo‘yicha Bashorat va Haqiqiy Sotuvlar</h1>
+            <div style="margin-bottom: 20px;">
+                <label for="productSelect">Mahsulot tanlang:</label>
+                <select id="productSelect" onchange="updateDashboard()">
+                    <option value="">Mahsulotni tanlang</option>
+                </select>
+                <label for="monthSelect" style="margin-left: 20px;">Oy tanlang:</label>
+                <select id="monthSelect" onchange="updateDashboard()">
+                    <!-- Oylar dinamik qo‘shiladi -->
+                </select>
+            </div>
+            <div id="loadingSpinner" class="spinner" style="display: none;">
+                <div class="spinner-icon"></div> Yuklanmoqda...
+            </div>
+            <canvas id="salesChart" width="800" height="400"></canvas>
+            <div id="stats" style="margin-top: 20px; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+                <h3>Statistika</h3>
+                <p id="totalActual"></p>
+                <p id="totalForecast"></p>
+                <p id="errorPercent" style="color: #d9534f;"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+</body>
+</html>

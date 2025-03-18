@@ -1,0 +1,5852 @@
+{
+    "1": {
+        "product_id": 1,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 40.82
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 40.88
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 40.94
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 41.0
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 41.06
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 41.12
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 41.18
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 41.23
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 41.29
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 41.34
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 41.39
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 41.45
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 41.5
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 41.55
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 41.6
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 41.65
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 41.7
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 41.75
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 41.8
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 41.85
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 41.89
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 41.94
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 41.98
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 42.03
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 42.07
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 42.12
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 42.16
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 42.2
+            }
+        ]
+    },
+    "2": {
+        "product_id": 2,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 39.39
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 39.44
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 39.48
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 39.53
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 39.58
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 39.63
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 39.67
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 39.72
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 39.76
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 39.81
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 39.85
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 39.9
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 39.94
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 39.99
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 40.03
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 40.07
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 40.12
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 40.16
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 40.2
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 40.24
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 40.28
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 40.32
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 40.37
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 40.41
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 40.45
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 40.49
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 40.53
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 40.56
+            }
+        ]
+    },
+    "3": {
+        "product_id": 3,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 44.49
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 44.65
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 44.8
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 44.95
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 45.09
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 45.23
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 45.37
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 45.5
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 45.63
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 45.76
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 45.89
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 46.01
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 46.14
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 46.26
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 46.38
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 46.5
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 46.62
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 46.74
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 46.86
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 46.98
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 47.09
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 47.21
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 47.32
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 47.43
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 47.54
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 47.65
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 47.76
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 47.87
+            }
+        ]
+    },
+    "4": {
+        "product_id": 4,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 40.39
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 40.47
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 40.55
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 40.63
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 40.7
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 40.78
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 40.86
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 40.94
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 41.01
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 41.09
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 41.17
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 41.24
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 41.31
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 41.39
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 41.46
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 41.53
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 41.6
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 41.67
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 41.74
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 41.81
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 41.88
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 41.95
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 42.02
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 42.09
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 42.16
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 42.23
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 42.29
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 42.36
+            }
+        ]
+    },
+    "5": {
+        "product_id": 5,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 45.85
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 46.04
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 46.22
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 46.39
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 46.56
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 46.73
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 46.89
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 47.05
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 47.21
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 47.36
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 47.51
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 47.65
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 47.8
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 47.94
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 48.07
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 48.21
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 48.34
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 48.47
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 48.59
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 48.72
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 48.84
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 48.96
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 49.08
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 49.19
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 49.31
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 49.42
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 49.53
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 49.63
+            }
+        ]
+    },
+    "6": {
+        "product_id": 6,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 38.58
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 38.59
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 38.61
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 38.63
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 38.64
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 38.66
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 38.67
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 38.68
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 38.7
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 38.71
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 38.72
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 38.73
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 38.75
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 38.76
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 38.77
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 38.78
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 38.79
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 38.8
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 38.81
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 38.82
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 38.83
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 38.84
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 38.85
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 38.86
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 38.86
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 38.87
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 38.88
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 38.89
+            }
+        ]
+    },
+    "7": {
+        "product_id": 7,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 37.56
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 37.57
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 37.57
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 37.57
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 37.57
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 37.57
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 37.57
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 37.57
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 37.57
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 37.58
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 37.58
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 37.58
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 37.58
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 37.58
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 37.58
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 37.59
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 37.59
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 37.59
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 37.59
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 37.59
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 37.6
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 37.6
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 37.6
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 37.6
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 37.61
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 37.61
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 37.61
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 37.61
+            }
+        ]
+    },
+    "8": {
+        "product_id": 8,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 43.6
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 43.64
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 43.69
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 43.73
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 43.77
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 43.81
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 43.84
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 43.88
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 43.91
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 43.94
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 43.97
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 43.99
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 44.02
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 44.04
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 44.06
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 44.09
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 44.11
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 44.13
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 44.14
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 44.16
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 44.18
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 44.19
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 44.21
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 44.22
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 44.24
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 44.25
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 44.27
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 44.28
+            }
+        ]
+    },
+    "9": {
+        "product_id": 9,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 36.62
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 36.62
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 36.61
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 36.6
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 36.6
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 36.59
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 36.59
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 36.58
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 36.58
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 36.57
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 36.57
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 36.56
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 36.56
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 36.55
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 36.55
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 36.55
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 36.54
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 36.54
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 36.54
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 36.53
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 36.53
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 36.53
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 36.52
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 36.52
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 36.52
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 36.51
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 36.51
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 36.51
+            }
+        ]
+    },
+    "10": {
+        "product_id": 10,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 45.75
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 45.89
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 46.04
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 46.17
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 46.31
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 46.44
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 46.57
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 46.7
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 46.82
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 46.95
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 47.07
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 47.18
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 47.3
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 47.41
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 47.53
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 47.64
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 47.75
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 47.85
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 47.96
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 48.06
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 48.16
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 48.27
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 48.36
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 48.46
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 48.56
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 48.65
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 48.75
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 48.84
+            }
+        ]
+    },
+    "11": {
+        "product_id": 11,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 39.19
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 39.21
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 39.23
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 39.25
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 39.27
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 39.28
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 39.3
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 39.32
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 39.34
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 39.36
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 39.37
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 39.39
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 39.41
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 39.43
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 39.45
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 39.46
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 39.48
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 39.5
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 39.51
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 39.53
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 39.55
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 39.56
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 39.58
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 39.59
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 39.61
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 39.62
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 39.64
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 39.65
+            }
+        ]
+    },
+    "12": {
+        "product_id": 12,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 44.75
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 44.87
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 44.98
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 45.09
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 45.2
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 45.3
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 45.4
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 45.5
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 45.59
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 45.69
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 45.78
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 45.87
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 45.95
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 46.04
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 46.12
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 46.2
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 46.28
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 46.36
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 46.44
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 46.51
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 46.59
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 46.66
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 46.73
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 46.8
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 46.87
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 46.94
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 47.0
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 47.07
+            }
+        ]
+    },
+    "13": {
+        "product_id": 13,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 41.2
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 41.29
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 41.38
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 41.48
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 41.57
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 41.66
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 41.76
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 41.85
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 41.94
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 42.03
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 42.12
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 42.21
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 42.3
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 42.39
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 42.48
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 42.57
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 42.65
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 42.74
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 42.83
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 42.92
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 43.0
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 43.09
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 43.17
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 43.26
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 43.35
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 43.43
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 43.52
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 43.6
+            }
+        ]
+    },
+    "14": {
+        "product_id": 14,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 45.9
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 46.05
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 46.2
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 46.35
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 46.49
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 46.63
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 46.77
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 46.9
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 47.04
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 47.16
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 47.28
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 47.4
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 47.52
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 47.63
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 47.72
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 47.81
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 47.89
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 47.97
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 48.05
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 48.12
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 48.19
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 48.26
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 48.32
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 48.39
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 48.45
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 48.51
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 48.56
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 48.62
+            }
+        ]
+    },
+    "15": {
+        "product_id": 15,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 42.33
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 42.4
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 42.46
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 42.53
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 42.59
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 42.64
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 42.7
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 42.76
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 42.81
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 42.86
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 42.91
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 42.96
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 43.01
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 43.05
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 43.1
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 43.14
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 43.18
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 43.23
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 43.27
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 43.3
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 43.34
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 43.38
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 43.41
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 43.45
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 43.48
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 43.51
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 43.55
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 43.58
+            }
+        ]
+    },
+    "16": {
+        "product_id": 16,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 43.44
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 43.56
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 43.67
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 43.78
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 43.89
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 44.0
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 44.1
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 44.21
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 44.31
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 44.41
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 44.51
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 44.61
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 44.71
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 44.81
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 44.91
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 45.0
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 45.1
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 45.19
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 45.29
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 45.38
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 45.47
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 45.56
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 45.65
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 45.74
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 45.83
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 45.92
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 46.01
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 46.1
+            }
+        ]
+    },
+    "17": {
+        "product_id": 17,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 47.24
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 47.39
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 47.54
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 47.68
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 47.82
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 47.95
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 48.08
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 48.21
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 48.34
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 48.46
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 48.58
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 48.7
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 48.82
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 48.93
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 49.04
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 49.15
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 49.26
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 49.37
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 49.47
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 49.58
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 49.68
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 49.78
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 49.87
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 49.97
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 50.07
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 50.16
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 50.25
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 50.34
+            }
+        ]
+    },
+    "18": {
+        "product_id": 18,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 40.41
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 40.46
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 40.5
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 40.54
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 40.58
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 40.61
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 40.65
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 40.69
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 40.72
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 40.75
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 40.79
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 40.82
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 40.85
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 40.89
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 40.92
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 40.95
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 40.98
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 41.01
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 41.04
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 41.07
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 41.1
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 41.13
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 41.16
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 41.18
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 41.21
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 41.24
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 41.26
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 41.29
+            }
+        ]
+    },
+    "19": {
+        "product_id": 19,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 40.41
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 40.46
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 40.5
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 40.54
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 40.58
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 40.62
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 40.66
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 40.7
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 40.74
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 40.77
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 40.81
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 40.84
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 40.88
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 40.91
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 40.94
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 40.97
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 41.01
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 41.04
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 41.07
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 41.09
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 41.12
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 41.15
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 41.18
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 41.2
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 41.23
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 41.25
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 41.28
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 41.3
+            }
+        ]
+    },
+    "20": {
+        "product_id": 20,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 41.77
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 41.88
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 42.0
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 42.12
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 42.24
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 42.36
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 42.48
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 42.61
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 42.73
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 42.86
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 42.99
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 43.13
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 43.26
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 43.4
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 43.54
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 43.68
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 43.82
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 43.95
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 44.07
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 44.19
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 44.31
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 44.42
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 44.53
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 44.64
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 44.75
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 44.86
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 44.96
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 45.07
+            }
+        ]
+    },
+    "21": {
+        "product_id": 21,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 45.15
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 45.24
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 45.33
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 45.41
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 45.49
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 45.57
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 45.64
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 45.71
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 45.78
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 45.85
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 45.91
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 45.97
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 46.03
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 46.08
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 46.14
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 46.19
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 46.24
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 46.28
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 46.33
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 46.38
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 46.42
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 46.46
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 46.51
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 46.55
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 46.59
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 46.63
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 46.66
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 46.7
+            }
+        ]
+    },
+    "22": {
+        "product_id": 22,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 42.62
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 42.69
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 42.76
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 42.82
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 42.88
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 42.94
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 43.0
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 43.06
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 43.11
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 43.16
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 43.21
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 43.26
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 43.31
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 43.36
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 43.4
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 43.45
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 43.49
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 43.54
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 43.59
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 43.63
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 43.68
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 43.72
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 43.76
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 43.8
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 43.84
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 43.88
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 43.92
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 43.96
+            }
+        ]
+    },
+    "23": {
+        "product_id": 23,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 44.51
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 44.64
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 44.77
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 44.9
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 45.02
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 45.15
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 45.27
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 45.39
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 45.5
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 45.62
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 45.74
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 45.85
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 45.96
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 46.07
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 46.17
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 46.27
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 46.38
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 46.48
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 46.57
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 46.67
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 46.77
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 46.86
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 46.95
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 47.04
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 47.13
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 47.22
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 47.3
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 47.39
+            }
+        ]
+    },
+    "24": {
+        "product_id": 24,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 42.77
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 42.88
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 42.98
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 43.08
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 43.18
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 43.28
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 43.38
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 43.47
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 43.56
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 43.65
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 43.74
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 43.83
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 43.92
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 44.01
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 44.1
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 44.19
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 44.28
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 44.37
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 44.46
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 44.55
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 44.64
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 44.73
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 44.81
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 44.9
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 44.99
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 45.07
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 45.16
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 45.24
+            }
+        ]
+    },
+    "25": {
+        "product_id": 25,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 41.12
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 41.18
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 41.24
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 41.3
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 41.36
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 41.41
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 41.47
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 41.52
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 41.58
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 41.63
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 41.68
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 41.73
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 41.78
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 41.82
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 41.87
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 41.92
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 41.96
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 42.0
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 42.05
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 42.09
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 42.13
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 42.17
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 42.21
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 42.25
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 42.28
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 42.32
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 42.36
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 42.39
+            }
+        ]
+    },
+    "26": {
+        "product_id": 26,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 46.0
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 46.2
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 46.41
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 46.61
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 46.8
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 47.0
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 47.2
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 47.39
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 47.58
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 47.78
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 47.97
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 48.17
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 48.36
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 48.56
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 48.75
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 48.95
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 49.15
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 49.35
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 49.54
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 49.74
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 49.95
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 50.15
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 50.35
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 50.55
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 50.76
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 50.96
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 51.17
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 51.37
+            }
+        ]
+    },
+    "27": {
+        "product_id": 27,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 43.2
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 43.25
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 43.29
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 43.34
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 43.38
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 43.43
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 43.46
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 43.5
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 43.53
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 43.56
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 43.59
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 43.62
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 43.64
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 43.66
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 43.68
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 43.7
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 43.72
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 43.73
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 43.75
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 43.77
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 43.79
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 43.8
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 43.82
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 43.84
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 43.86
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 43.87
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 43.89
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 43.91
+            }
+        ]
+    },
+    "28": {
+        "product_id": 28,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 45.15
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 45.22
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 45.29
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 45.36
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 45.42
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 45.47
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 45.53
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 45.58
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 45.63
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 45.68
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 45.73
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 45.77
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 45.82
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 45.86
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 45.9
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 45.93
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 45.97
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 46.0
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 46.03
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 46.06
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 46.09
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 46.12
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 46.15
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 46.18
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 46.2
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 46.22
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 46.25
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 46.27
+            }
+        ]
+    },
+    "29": {
+        "product_id": 29,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 38.41
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 38.43
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 38.44
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 38.46
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 38.47
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 38.49
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 38.5
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 38.51
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 38.53
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 38.54
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 38.55
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 38.56
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 38.57
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 38.58
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 38.59
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 38.61
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 38.62
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 38.63
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 38.64
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 38.65
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 38.66
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 38.67
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 38.68
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 38.69
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 38.7
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 38.71
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 38.72
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 38.73
+            }
+        ]
+    },
+    "30": {
+        "product_id": 30,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 39.53
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 39.58
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 39.62
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 39.67
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 39.71
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 39.75
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 39.8
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 39.84
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 39.88
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 39.93
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 39.97
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 40.01
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 40.05
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 40.09
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 40.13
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 40.17
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 40.2
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 40.24
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 40.28
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 40.32
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 40.35
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 40.39
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 40.42
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 40.46
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 40.49
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 40.53
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 40.56
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 40.6
+            }
+        ]
+    },
+    "31": {
+        "product_id": 31,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 43.12
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 43.21
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 43.3
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 43.38
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 43.47
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 43.55
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 43.62
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 43.7
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 43.77
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 43.85
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 43.92
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 43.99
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 44.05
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 44.12
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 44.19
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 44.25
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 44.31
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 44.38
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 44.44
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 44.5
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 44.56
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 44.61
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 44.67
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 44.73
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 44.78
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 44.84
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 44.89
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 44.94
+            }
+        ]
+    },
+    "32": {
+        "product_id": 32,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 46.44
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 46.57
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 46.7
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 46.82
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 46.95
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 47.07
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 47.18
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 47.3
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 47.41
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 47.51
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 47.62
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 47.72
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 47.82
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 47.91
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 48.01
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 48.1
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 48.19
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 48.27
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 48.36
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 48.44
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 48.52
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 48.6
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 48.68
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 48.75
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 48.82
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 48.9
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 48.97
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 49.03
+            }
+        ]
+    },
+    "33": {
+        "product_id": 33,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 35.03
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 35.0
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 34.96
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 34.93
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 34.9
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 34.87
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 34.84
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 34.81
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 34.78
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 34.76
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 34.73
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 34.71
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 34.68
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 34.66
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 34.64
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 34.62
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 34.6
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 34.58
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 34.56
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 34.54
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 34.52
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 34.5
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 34.48
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 34.46
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 34.45
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 34.43
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 34.41
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 34.4
+            }
+        ]
+    },
+    "34": {
+        "product_id": 34,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 48.2
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 48.36
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 48.52
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 48.68
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 48.83
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 48.98
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 49.12
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 49.25
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 49.38
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 49.51
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 49.63
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 49.74
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 49.85
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 49.95
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 50.05
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 50.15
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 50.25
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 50.34
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 50.43
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 50.52
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 50.6
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 50.69
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 50.77
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 50.86
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 50.94
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 51.02
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 51.1
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 51.18
+            }
+        ]
+    },
+    "35": {
+        "product_id": 35,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 38.37
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 38.39
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 38.41
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 38.43
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 38.45
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 38.46
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 38.48
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 38.5
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 38.52
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 38.53
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 38.55
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 38.57
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 38.59
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 38.6
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 38.62
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 38.63
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 38.65
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 38.66
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 38.68
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 38.69
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 38.71
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 38.72
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 38.74
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 38.75
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 38.76
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 38.77
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 38.79
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 38.8
+            }
+        ]
+    },
+    "36": {
+        "product_id": 36,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 43.85
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 43.94
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 44.02
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 44.09
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 44.17
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 44.24
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 44.31
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 44.38
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 44.45
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 44.52
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 44.58
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 44.64
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 44.7
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 44.76
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 44.82
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 44.87
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 44.93
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 44.98
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 45.03
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 45.09
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 45.14
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 45.18
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 45.23
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 45.28
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 45.32
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 45.37
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 45.41
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 45.45
+            }
+        ]
+    },
+    "37": {
+        "product_id": 37,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 42.0
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 42.18
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 42.35
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 42.54
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 42.67
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 42.8
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 42.93
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 43.05
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 43.17
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 43.28
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 43.39
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 43.49
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 43.59
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 43.68
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 43.78
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 43.87
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 43.96
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 44.04
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 44.13
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 44.21
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 44.29
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 44.37
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 44.45
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 44.52
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 44.6
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 44.67
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 44.74
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 44.81
+            }
+        ]
+    },
+    "38": {
+        "product_id": 38,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 40.78
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 40.85
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 40.91
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 40.97
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 41.04
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 41.1
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 41.16
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 41.22
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 41.28
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 41.34
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 41.39
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 41.45
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 41.51
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 41.56
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 41.62
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 41.67
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 41.72
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 41.77
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 41.83
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 41.88
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 41.93
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 41.98
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 42.02
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 42.07
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 42.12
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 42.17
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 42.21
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 42.26
+            }
+        ]
+    },
+    "39": {
+        "product_id": 39,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 37.02
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 37.01
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 37.01
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 37.0
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 36.99
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 36.99
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 36.98
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 36.97
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 36.97
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 36.96
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 36.96
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 36.96
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 36.95
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 36.95
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 36.95
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 36.95
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 36.95
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 36.95
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 36.95
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 36.94
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 36.94
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 36.94
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 36.94
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 36.94
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 36.94
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 36.94
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 36.94
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 36.94
+            }
+        ]
+    },
+    "40": {
+        "product_id": 40,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 46.08
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 46.28
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 46.47
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 46.65
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 46.83
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 47.0
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 47.16
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 47.32
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 47.47
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 47.62
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 47.76
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 47.9
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 48.04
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 48.17
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 48.31
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 48.44
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 48.56
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 48.69
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 48.81
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 48.93
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 49.05
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 49.16
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 49.28
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 49.39
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 49.49
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 49.6
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 49.7
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 49.8
+            }
+        ]
+    },
+    "41": {
+        "product_id": 41,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 39.72
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 39.76
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 39.8
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 39.84
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 39.88
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 39.92
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 39.97
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 40.01
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 40.04
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 40.08
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 40.12
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 40.16
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 40.2
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 40.23
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 40.27
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 40.3
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 40.34
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 40.37
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 40.41
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 40.44
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 40.47
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 40.5
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 40.53
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 40.57
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 40.6
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 40.63
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 40.66
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 40.68
+            }
+        ]
+    },
+    "42": {
+        "product_id": 42,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 38.77
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 38.8
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 38.83
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 38.86
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 38.88
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 38.91
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 38.93
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 38.95
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 38.97
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 38.99
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 39.01
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 39.03
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 39.05
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 39.07
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 39.09
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 39.11
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 39.13
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 39.14
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 39.16
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 39.18
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 39.2
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 39.22
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 39.24
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 39.26
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 39.28
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 39.3
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 39.31
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 39.33
+            }
+        ]
+    },
+    "43": {
+        "product_id": 43,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 39.8
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 39.82
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 39.85
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 39.87
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 39.9
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 39.92
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 39.94
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 39.96
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 39.98
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 40.0
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 40.02
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 40.03
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 40.05
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 40.07
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 40.08
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 40.1
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 40.11
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 40.12
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 40.14
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 40.15
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 40.16
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 40.17
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 40.18
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 40.19
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 40.2
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 40.21
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 40.22
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 40.23
+            }
+        ]
+    },
+    "44": {
+        "product_id": 44,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 39.27
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 39.34
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 39.42
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 39.49
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 39.57
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 39.64
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 39.72
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 39.8
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 39.88
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 39.96
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 40.04
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 40.12
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 40.2
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 40.29
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 40.38
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 40.46
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 40.55
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 40.64
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 40.74
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 40.83
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 40.92
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 41.02
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 41.12
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 41.22
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 41.32
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 41.42
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 41.53
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 41.63
+            }
+        ]
+    },
+    "45": {
+        "product_id": 45,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 40.93
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 40.99
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 41.05
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 41.11
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 41.16
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 41.21
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 41.26
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 41.3
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 41.35
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 41.39
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 41.43
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 41.47
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 41.51
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 41.55
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 41.59
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 41.63
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 41.67
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 41.71
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 41.74
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 41.77
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 41.81
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 41.84
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 41.87
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 41.9
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 41.93
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 41.95
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 41.98
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 42.01
+            }
+        ]
+    },
+    "46": {
+        "product_id": 46,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 40.9
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 40.95
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 41.0
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 41.05
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 41.09
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 41.14
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 41.18
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 41.23
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 41.27
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 41.31
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 41.35
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 41.38
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 41.42
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 41.46
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 41.49
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 41.53
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 41.56
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 41.59
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 41.63
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 41.66
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 41.69
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 41.72
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 41.75
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 41.77
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 41.8
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 41.83
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 41.86
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 41.88
+            }
+        ]
+    },
+    "47": {
+        "product_id": 47,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 35.08
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 35.04
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 35.01
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 34.98
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 34.96
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 34.93
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 34.9
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 34.88
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 34.85
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 34.83
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 34.81
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 34.79
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 34.77
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 34.75
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 34.73
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 34.71
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 34.69
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 34.67
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 34.66
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 34.64
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 34.63
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 34.61
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 34.6
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 34.58
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 34.57
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 34.56
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 34.54
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 34.53
+            }
+        ]
+    },
+    "48": {
+        "product_id": 48,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 45.85
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 45.95
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 46.05
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 46.15
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 46.24
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 46.33
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 46.41
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 46.49
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 46.56
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 46.63
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 46.7
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 46.76
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 46.82
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 46.88
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 46.93
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 46.98
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 47.04
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 47.09
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 47.14
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 47.18
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 47.23
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 47.28
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 47.32
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 47.37
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 47.41
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 47.46
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 47.5
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 47.54
+            }
+        ]
+    },
+    "49": {
+        "product_id": 49,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 39.11
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 39.15
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 39.18
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 39.21
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 39.24
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 39.27
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 39.3
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 39.33
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 39.35
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 39.38
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 39.41
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 39.44
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 39.46
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 39.49
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 39.52
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 39.55
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 39.58
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 39.61
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 39.64
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 39.66
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 39.69
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 39.72
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 39.75
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 39.78
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 39.8
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 39.83
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 39.86
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 39.88
+            }
+        ]
+    },
+    "50": {
+        "product_id": 50,
+        "forecast": [
+            {
+                "date": "2025-02-01",
+                "predicted_quantity": 39.43
+            },
+            {
+                "date": "2025-02-02",
+                "predicted_quantity": 39.46
+            },
+            {
+                "date": "2025-02-03",
+                "predicted_quantity": 39.48
+            },
+            {
+                "date": "2025-02-04",
+                "predicted_quantity": 39.5
+            },
+            {
+                "date": "2025-02-05",
+                "predicted_quantity": 39.52
+            },
+            {
+                "date": "2025-02-06",
+                "predicted_quantity": 39.54
+            },
+            {
+                "date": "2025-02-07",
+                "predicted_quantity": 39.56
+            },
+            {
+                "date": "2025-02-08",
+                "predicted_quantity": 39.58
+            },
+            {
+                "date": "2025-02-09",
+                "predicted_quantity": 39.59
+            },
+            {
+                "date": "2025-02-10",
+                "predicted_quantity": 39.61
+            },
+            {
+                "date": "2025-02-11",
+                "predicted_quantity": 39.63
+            },
+            {
+                "date": "2025-02-12",
+                "predicted_quantity": 39.64
+            },
+            {
+                "date": "2025-02-13",
+                "predicted_quantity": 39.65
+            },
+            {
+                "date": "2025-02-14",
+                "predicted_quantity": 39.67
+            },
+            {
+                "date": "2025-02-15",
+                "predicted_quantity": 39.68
+            },
+            {
+                "date": "2025-02-16",
+                "predicted_quantity": 39.69
+            },
+            {
+                "date": "2025-02-17",
+                "predicted_quantity": 39.71
+            },
+            {
+                "date": "2025-02-18",
+                "predicted_quantity": 39.72
+            },
+            {
+                "date": "2025-02-19",
+                "predicted_quantity": 39.73
+            },
+            {
+                "date": "2025-02-20",
+                "predicted_quantity": 39.74
+            },
+            {
+                "date": "2025-02-21",
+                "predicted_quantity": 39.75
+            },
+            {
+                "date": "2025-02-22",
+                "predicted_quantity": 39.76
+            },
+            {
+                "date": "2025-02-23",
+                "predicted_quantity": 39.77
+            },
+            {
+                "date": "2025-02-24",
+                "predicted_quantity": 39.78
+            },
+            {
+                "date": "2025-02-25",
+                "predicted_quantity": 39.79
+            },
+            {
+                "date": "2025-02-26",
+                "predicted_quantity": 39.8
+            },
+            {
+                "date": "2025-02-27",
+                "predicted_quantity": 39.81
+            },
+            {
+                "date": "2025-02-28",
+                "predicted_quantity": 39.82
+            }
+        ]
+    }
+}

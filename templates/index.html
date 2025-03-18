@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ombor Boshqaruv Tizimi</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="sidebar">
+        <h2>Ombor Tizimi</h2>
+        <button onclick="showProducts()">Mahsulotlar</button>
+        <button onclick="showWarehouseStock()">Ombor Qoldiqlari</button>
+        <button onclick="showForecast()">Bashoratlar</button>
+        <button onclick="showOrders()">Buyurtmalar</button>
+        <button onclick="showReports()">Hisobotlar</button>
+    </div>
+
+    <div class="main-content">
+        <div class="container">
+            <h1 id="pageTitle">Ombor Boshqaruv Tizimiga Xush Kelibsiz</h1>
+            <div style="margin-bottom: 20px;">
+                <label for="monthSelect">Oy tanlang:</label>
+                <select id="monthSelect" onchange="loadData()">
+                    <!-- Oylar dinamik qo‘shiladi -->
+                </select>
+            </div>
+            <div id="loadingSpinner" class="spinner" style="display: none;">
+                <div class="spinner-icon"></div> Yuklanmoqda...
+            </div>
+            <table id="stockTable">
+                <thead>
+                    <tr id="dateHeader"></tr>
+                </thead>
+                <tbody id="stockBody"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
